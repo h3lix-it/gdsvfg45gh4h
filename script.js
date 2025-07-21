@@ -4,7 +4,8 @@ const gifUrls = [
   'https://media.tenor.com/eLsrCqaJkt0AAAAj/baldi-dance.gif',
   'https://media.tenor.com/images/3f89ab77d5aff6d02028243c08dbece7/tenor.gif',
   'https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif',
-  'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU0bHg2cGpyMDFhaTRzd3JuMXF1MHp3cXpqdGlrZG1lNHBhZWR3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ArAgo5dU2z2xO/giphy.gif'
+  'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU0bHg2cGpyMDFhaTRzd3JuMXF1MHp3cXpqdGlrZG1lNHBhZWR3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ArAgo5dU2z2xO/giphy.gif',
+  'https://i.pinimg.com/736x/37/f8/e9/37f8e97cbacb958a4a6339a07cd32093.jpg'
 ];
 
 function randomBetween(a, b) {
